@@ -1,0 +1,23 @@
+{
+  "name": "prototype-sidebar",
+  "version": "1.0.0",
+  "description": "A prototype for a simple sidebar for the the Photosphere frontend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleydavis/simple-sidebar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleydavis/simple-sidebar/issues"
+  },
+  "homepage": "https://github.com/ashleydavis/simple-sidebar#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
