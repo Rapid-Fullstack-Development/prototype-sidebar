@@ -1,6 +1,6 @@
 # prototype-sidebar
 
-A prototype for a simple sidebar for the [the Photosphere frontend](https://rapidfullstackdevelopment.com/example-application).
+A prototype for a simple sidebar for [the Photosphere frontend](https://rapidfullstackdevelopment.com/example-application).
 
 Built with HTML and CSS.
 
